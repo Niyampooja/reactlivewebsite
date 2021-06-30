@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=multidisplay=swap");
+// @import url("https://fonts.googleapis.com/css2?family=multidisplay=swap");
 @import "../src/sass/variables.scss";
 
 *{
@@ -109,4 +109,8 @@ color: #fff;
     font-size: 1.9em !important;
     color: $brand-clr;
     text-align: center;
+ }
+ .error{
+     color: red;
+     margin-bottom: 10px;
  }

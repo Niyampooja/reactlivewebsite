@@ -30,6 +30,9 @@ const Navbar = ()=>{
                             <li className="nav-item">
                             <NavLink activeClassName ='menu_active' className="nav-link" to="/profile">Profile</NavLink>
                             </li>
+                            <li className="nav-item">
+                            <NavLink activeClassName ='menu_active' className="nav-link" to="/post">Login</NavLink>
+                            </li>
                         </ul>
                         </div>
                     </div>
